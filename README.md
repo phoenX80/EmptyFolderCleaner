@@ -1,4 +1,5 @@
-<img width="512" height="350" alt="image" src="https://github.com/user-attachments/assets/6f7c029c-6594-40d8-bac9-25c29e83a44d" />
+<img width="503" height="336" alt="Screenshot 2026-11-21 184307" src="https://github.com/user-attachments/assets/f5da3e05-c2c3-422f-acc2-bafa02aaccff" />
+
 
 
 # EmptyFolderCleaner
@@ -27,8 +28,7 @@ No installation, no `.NET` or Python runtime, and no external dependencies requi
 
 - Windows 7 / 8 / 10 / 11 (uses built-in `mshta.exe`).
 
-<img width="509" height="355" alt="Screenshot 2026-11-21 184256" src="https://github.com/user-attachments/assets/5d3263a0-3d8e-4f38-ba88-096c3113d43c" />
-
+<img width="1006" height="673" alt="Screenshot 2026-11-21 184256" src="https://github.com/user-attachments/assets/fb703c78-c5fe-47c1-b3ea-e485c2fabc8f" />
   
 # EmptyFolderCleaner
 
