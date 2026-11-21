@@ -1,3 +1,6 @@
+<img width="1025" height="700" alt="image" src="https://github.com/user-attachments/assets/6f7c029c-6594-40d8-bac9-25c29e83a44d" />
+
+
 # EmptyFolderCleaner
 
 A lightweight, portable single-file Windows HTA application to safely find and delete truly empty directories — including nested empty folder trees — without risking 0-byte files or protected system folders.
@@ -23,6 +26,8 @@ No installation, no `.NET` or Python runtime, and no external dependencies requi
 ## Requirements
 
 - Windows 7 / 8 / 10 / 11 (uses built-in `mshta.exe`).
+
+<img width="1018" height="710" alt="Screenshot 2026-11-21 184256" src="https://github.com/user-attachments/assets/5d3263a0-3d8e-4f38-ba88-096c3113d43c" />
 
   
 # EmptyFolderCleaner
