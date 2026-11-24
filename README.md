@@ -6,8 +6,8 @@
 
 A lightweight, portable single-file Windows HTA application to safely find and delete truly empty directories — including nested empty folder trees — without risking 0-byte files or protected system folders.
 
-No installation, no `.NET` or Python runtime, and no external dependencies required. Just double-click the `.hta` file and run.
-created assissted with AI
+No installation, no `.NET` or Python runtime, and no external dependencies required. Just double-click the `.hta` file and run. Created assissted with AI.
+
 
 
 ## Features
@@ -36,7 +36,7 @@ created assissted with AI
 
 Eine schlanke, portable Windows-HTA-Anwendung (bestehend aus einer einzigen Datei), mit der Sie tatsächlich leere Verzeichnisse – einschließlich ineinander verschachtelter leerer Ordnerstrukturen – sicher finden und löschen können. Dabei besteht kein Risiko, dass 0-Byte-Dateien oder geschützte Systemordner versehentlich entfernt werden.
 
-Es ist keine Installation erforderlich; zudem werden weder eine .NET- oder Python-Laufzeitumgebung noch externe Abhängigkeiten benötigt. Einfach die `.hta`-Datei per Doppelklick starten – fertig.
+Es ist keine Installation erforderlich; zudem werden weder eine .NET- oder Python-Laufzeitumgebung noch externe Abhängigkeiten benötigt. Einfach die `.hta`-Datei per Doppelklick starten – fertig. KI gestützt erstellt.
 
 ## Funktionen
 
