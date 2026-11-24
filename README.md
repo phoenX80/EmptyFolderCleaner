@@ -1,5 +1,3 @@
-created assissted with AI
-
 <img width="503" height="336" alt="Screenshot 2026-11-21 184307" src="https://github.com/user-attachments/assets/f5da3e05-c2c3-422f-acc2-bafa02aaccff" />
 
 
@@ -9,6 +7,8 @@ created assissted with AI
 A lightweight, portable single-file Windows HTA application to safely find and delete truly empty directories — including nested empty folder trees — without risking 0-byte files or protected system folders.
 
 No installation, no `.NET` or Python runtime, and no external dependencies required. Just double-click the `.hta` file and run.
+created assissted with AI
+
 
 ## Features
 
